@@ -4,6 +4,8 @@ const answerText = id('answerText')
 const submitBtn = id('submitBtn')
 const correct = id('correct')
 
+
+
 play.addEventListener('click', () => {
     randomPhrase()
 })
